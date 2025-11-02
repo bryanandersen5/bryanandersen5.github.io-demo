@@ -29,23 +29,6 @@
 
 ---
 
-### 🚀 `Deployment Options`
-This project can be deployed to any static hosting platform. Here are two quick options:
-
-#### 🔹 GitHub Pages
-1. Push your code to a GitHub repository  
-2. Go to **Settings > Pages**  
-3. Select the branch (e.g., `main`) and root folder  
-4. Your site will be live at `https://yourusername.github.io/repo-name`
-
-#### 🔹 Netlify
-1. Go to [Netlify](https://www.netlify.com/) and sign in  
-2. Click **“Add new site”** and connect your GitHub repo  
-3. Set build command to `N/A` and publish directory to `/`  
-4. Deploy and get a live URL instantly
-
----
-
 ### 📁 `File Overview`
 ```
 
