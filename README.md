@@ -31,5 +31,15 @@
 
 ### 📁 `File Overview`
 ```
-
+📦 Seat_Reservation/
+ ┣ 📁 img
+   ┣ 📄 1.jpg
+   ┣ 📄 2.jpg
+   ┣ 📄 3.jpg
+   ┣ 📄 4.jpg
+   ┣ 📄 5.jpg
+   ┣ 📄 .. More Components
+ ┣ 📄 style.css
+ ┣ 📄 index.html
+ ┗ 📄 README.md
 ```
